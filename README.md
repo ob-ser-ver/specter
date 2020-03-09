@@ -1,0 +1,2 @@
+# specter
+Static site demonstration
